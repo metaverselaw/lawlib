@@ -7,4 +7,4 @@ Metaverse Law Library website runs on Grav. Grav is an open source flat-file CMS
 We use Google AI for Text-to-Speech functionalities.
 
 # Text Paraphraser
-For sentence level paraphrases, we use T5 Text-to-Text generators. For paragraphs, we found loop each setence with T5; this is a tedious process. So, we're planning to deploy a Streamlit client for our non-coding members. In the meantime, we also use commercial vendors for paraphrasing tasks.
+For sentence level paraphrases, we use T5 Text-to-Text generators. For paragraphs, we loop each setence with T5, but this is not a friendly process for our non-coding members. So, we're planning to deploy a Streamlit on local drive. In the meantime, we also use commercial vendors for paraphrasing tasks.

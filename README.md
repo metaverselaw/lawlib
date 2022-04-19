@@ -1,4 +1,4 @@
-We will do our best to make our code available to the public. At the same time, a bulk of Metaverse Law Library runs on software created by third parties (i.e., open source), so we want to make it clear that WE DO NOT EXTEND OR MODIFY ORIGINAL LICENSE CREATED BY THIRD PARTIES. See <a href="https://github.com/metaverselaw/lawlib/blob/main/LICENSE">license</a>.
+We will do our best to make our code available to the public. At the same time, a bulk of Metaverse Law Library runs on software created by third parties (i.e., open source), so we want to make it clear that <b><i><u>WE DO NOT EXTEND OR MODIFY ORIGINAL LICENSE CREATED BY THIRD PARTIES</u></i></b>. See <a href="https://github.com/metaverselaw/lawlib/blob/main/LICENSE">license</a>.
 
 # GRAV
 Metaverse Law Library website runs on Grav. Grav is an open source flat-file CMS web-platform. Grav is available on Github <a href="https://github.com/getgrav/grav" target="_blank">here</a>.

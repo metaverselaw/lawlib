@@ -8,3 +8,6 @@ We use <a href="https://cloud.google.com/text-to-speech" target="_blank">Google 
 
 # Text Paraphraser
 For sentence level paraphrases, we use T5 Text-to-Text generators. For paragraphs, we loop each sentence with T5, but this is not a friendly process for our non-coding members. So, we're planning to deploy a <a href="https://streamlit.io" target="_blank">Streamlit</a> application on local drive. This obviously takes time to build. In the meantime, we also use commercial vendors for paraphrasing tasks.
+
+# DALL-E
+We use DALL-E to generate images. This is an innovative tool that combines NLP and visual systems, whereby AI generates images from text input.
